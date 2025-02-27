@@ -1,0 +1,65 @@
+﻿  Mesh.cpp
+  practica2.cpp
+C:\Users\ciber\Lab-11-CGeIHC\practica2\practica2\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica2.cpp")
+  
+C:\Users\ciber\Lab-11-CGeIHC\practica2\practica2\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica2.cpp")
+  
+C:\Users\ciber\Lab-11-CGeIHC\practica2\practica2\practica2.cpp(17,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\ciber\Lab-11-CGeIHC\practica2\practica2\practica2.cpp(200,13): warning C4305: '+=': truncamiento de 'double' a 'float'
+  Shader.cpp
+C:\Users\ciber\Lab-11-CGeIHC\practica2\practica2\Shader.cpp(121,24): warning C4267: '=': conversión de 'size_t' a 'GLint'; posible pérdida de datos
+  Window.cpp
+C:\Users\ciber\Lab-11-CGeIHC\practica2\practica2\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\ciber\Lab-11-CGeIHC\practica2\practica2\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+  Generando código...
+C:\Users\ciber\Lab-11-CGeIHC\practica2\practica2\Window.cpp(74,1): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+Mesh.obj : error LNK2019: símbolo externo __imp___glewBindBuffer sin resolver al que se hace referencia en la función "public: void __cdecl Mesh::CreateMesh(float *,unsigned int *,unsigned int,unsigned int)" (?CreateMesh@Mesh@@QEAAXPEAMPEAIII@Z)
+Mesh.obj : error LNK2019: símbolo externo __imp___glewBufferData sin resolver al que se hace referencia en la función "public: void __cdecl Mesh::CreateMesh(float *,unsigned int *,unsigned int,unsigned int)" (?CreateMesh@Mesh@@QEAAXPEAMPEAIII@Z)
+Mesh.obj : error LNK2019: símbolo externo __imp___glewDeleteBuffers sin resolver al que se hace referencia en la función "public: void __cdecl Mesh::ClearMesh(void)" (?ClearMesh@Mesh@@QEAAXXZ)
+Mesh.obj : error LNK2019: símbolo externo __imp___glewGenBuffers sin resolver al que se hace referencia en la función "public: void __cdecl Mesh::CreateMesh(float *,unsigned int *,unsigned int,unsigned int)" (?CreateMesh@Mesh@@QEAAXPEAMPEAIII@Z)
+Mesh.obj : error LNK2019: símbolo externo __imp___glewEnableVertexAttribArray sin resolver al que se hace referencia en la función "public: void __cdecl Mesh::CreateMesh(float *,unsigned int *,unsigned int,unsigned int)" (?CreateMesh@Mesh@@QEAAXPEAMPEAIII@Z)
+Mesh.obj : error LNK2019: símbolo externo __imp___glewVertexAttribPointer sin resolver al que se hace referencia en la función "public: void __cdecl Mesh::CreateMesh(float *,unsigned int *,unsigned int,unsigned int)" (?CreateMesh@Mesh@@QEAAXPEAMPEAIII@Z)
+Mesh.obj : error LNK2019: símbolo externo __imp___glewBindVertexArray sin resolver al que se hace referencia en la función "public: void __cdecl Mesh::CreateMesh(float *,unsigned int *,unsigned int,unsigned int)" (?CreateMesh@Mesh@@QEAAXPEAMPEAIII@Z)
+Mesh.obj : error LNK2019: símbolo externo __imp___glewDeleteVertexArrays sin resolver al que se hace referencia en la función "public: void __cdecl Mesh::ClearMesh(void)" (?ClearMesh@Mesh@@QEAAXXZ)
+Mesh.obj : error LNK2019: símbolo externo __imp___glewGenVertexArrays sin resolver al que se hace referencia en la función "public: void __cdecl Mesh::CreateMesh(float *,unsigned int *,unsigned int,unsigned int)" (?CreateMesh@Mesh@@QEAAXPEAMPEAIII@Z)
+practica2.obj : error LNK2019: símbolo externo glfwWindowShouldClose sin resolver al que se hace referencia en la función "public: bool __cdecl Window::getShouldClose(void)" (?getShouldClose@Window@@QEAA_NXZ)
+practica2.obj : error LNK2019: símbolo externo glfwPollEvents sin resolver al que se hace referencia en la función main
+practica2.obj : error LNK2019: símbolo externo glfwSwapBuffers sin resolver al que se hace referencia en la función "public: void __cdecl Window::swapBuffers(void)" (?swapBuffers@Window@@QEAAXXZ)
+practica2.obj : error LNK2019: símbolo externo __imp___glewUniformMatrix4fv sin resolver al que se hace referencia en la función main
+practica2.obj : error LNK2019: símbolo externo __imp___glewUseProgram sin resolver al que se hace referencia en la función main
+Shader.obj : error LNK2001: símbolo externo __imp___glewUseProgram sin resolver
+Shader.obj : error LNK2019: símbolo externo __imp___glewAttachShader sin resolver al que se hace referencia en la función "private: void __cdecl Shader::AddShader(unsigned int,char const *,unsigned int)" (?AddShader@Shader@@AEAAXIPEBDI@Z)
+Shader.obj : error LNK2019: símbolo externo __imp___glewCompileShader sin resolver al que se hace referencia en la función "private: void __cdecl Shader::AddShader(unsigned int,char const *,unsigned int)" (?AddShader@Shader@@AEAAXIPEBDI@Z)
+Shader.obj : error LNK2019: símbolo externo __imp___glewCreateProgram sin resolver al que se hace referencia en la función "private: void __cdecl Shader::CompileShader(char const *,char const *)" (?CompileShader@Shader@@AEAAXPEBD0@Z)
+Shader.obj : error LNK2019: símbolo externo __imp___glewCreateShader sin resolver al que se hace referencia en la función "private: void __cdecl Shader::AddShader(unsigned int,char const *,unsigned int)" (?AddShader@Shader@@AEAAXIPEBDI@Z)
+Shader.obj : error LNK2019: símbolo externo __imp___glewDeleteProgram sin resolver al que se hace referencia en la función "public: void __cdecl Shader::ClearShader(void)" (?ClearShader@Shader@@QEAAXXZ)
+Shader.obj : error LNK2019: símbolo externo __imp___glewGetProgramInfoLog sin resolver al que se hace referencia en la función "private: void __cdecl Shader::AddShader(unsigned int,char const *,unsigned int)" (?AddShader@Shader@@AEAAXIPEBDI@Z)
+Shader.obj : error LNK2019: símbolo externo __imp___glewGetProgramiv sin resolver al que se hace referencia en la función "private: void __cdecl Shader::CompileShader(char const *,char const *)" (?CompileShader@Shader@@AEAAXPEBD0@Z)
+Shader.obj : error LNK2019: símbolo externo __imp___glewGetShaderiv sin resolver al que se hace referencia en la función "private: void __cdecl Shader::AddShader(unsigned int,char const *,unsigned int)" (?AddShader@Shader@@AEAAXIPEBDI@Z)
+Shader.obj : error LNK2019: símbolo externo __imp___glewGetUniformLocation sin resolver al que se hace referencia en la función "private: void __cdecl Shader::CompileShader(char const *,char const *)" (?CompileShader@Shader@@AEAAXPEBD0@Z)
+Shader.obj : error LNK2019: símbolo externo __imp___glewLinkProgram sin resolver al que se hace referencia en la función "private: void __cdecl Shader::CompileShader(char const *,char const *)" (?CompileShader@Shader@@AEAAXPEBD0@Z)
+Shader.obj : error LNK2019: símbolo externo __imp___glewShaderSource sin resolver al que se hace referencia en la función "private: void __cdecl Shader::AddShader(unsigned int,char const *,unsigned int)" (?AddShader@Shader@@AEAAXIPEBDI@Z)
+Shader.obj : error LNK2019: símbolo externo __imp___glewValidateProgram sin resolver al que se hace referencia en la función "private: void __cdecl Shader::CompileShader(char const *,char const *)" (?CompileShader@Shader@@AEAAXPEBD0@Z)
+Window.obj : error LNK2019: símbolo externo __imp_glewInit sin resolver al que se hace referencia en la función "public: int __cdecl Window::Initialise(void)" (?Initialise@Window@@QEAAHXZ)
+Window.obj : error LNK2019: símbolo externo glfwInit sin resolver al que se hace referencia en la función "public: int __cdecl Window::Initialise(void)" (?Initialise@Window@@QEAAHXZ)
+Window.obj : error LNK2019: símbolo externo glfwTerminate sin resolver al que se hace referencia en la función "public: __cdecl Window::~Window(void)" (??1Window@@QEAA@XZ)
+Window.obj : error LNK2019: símbolo externo glfwWindowHint sin resolver al que se hace referencia en la función "public: int __cdecl Window::Initialise(void)" (?Initialise@Window@@QEAAHXZ)
+Window.obj : error LNK2019: símbolo externo glfwCreateWindow sin resolver al que se hace referencia en la función "public: int __cdecl Window::Initialise(void)" (?Initialise@Window@@QEAAHXZ)
+Window.obj : error LNK2019: símbolo externo glfwDestroyWindow sin resolver al que se hace referencia en la función "public: __cdecl Window::~Window(void)" (??1Window@@QEAA@XZ)
+Window.obj : error LNK2019: símbolo externo glfwSetWindowShouldClose sin resolver al que se hace referencia en la función "private: static void __cdecl Window::ManejaTeclado(struct GLFWwindow *,int,int,int,int)" (?ManejaTeclado@Window@@CAXPEAUGLFWwindow@@HHHH@Z)
+Window.obj : error LNK2019: símbolo externo glfwGetFramebufferSize sin resolver al que se hace referencia en la función "public: int __cdecl Window::Initialise(void)" (?Initialise@Window@@QEAAHXZ)
+Window.obj : error LNK2019: símbolo externo glfwSetWindowUserPointer sin resolver al que se hace referencia en la función "public: int __cdecl Window::Initialise(void)" (?Initialise@Window@@QEAAHXZ)
+Window.obj : error LNK2019: símbolo externo glfwGetWindowUserPointer sin resolver al que se hace referencia en la función "private: static void __cdecl Window::ManejaTeclado(struct GLFWwindow *,int,int,int,int)" (?ManejaTeclado@Window@@CAXPEAUGLFWwindow@@HHHH@Z)
+Window.obj : error LNK2019: símbolo externo glfwGetKeyName sin resolver al que se hace referencia en la función "private: static void __cdecl Window::ManejaTeclado(struct GLFWwindow *,int,int,int,int)" (?ManejaTeclado@Window@@CAXPEAUGLFWwindow@@HHHH@Z)
+Window.obj : error LNK2019: símbolo externo glfwSetKeyCallback sin resolver al que se hace referencia en la función "private: void __cdecl Window::createCallbacks(void)" (?createCallbacks@Window@@AEAAXXZ)
+Window.obj : error LNK2019: símbolo externo glfwMakeContextCurrent sin resolver al que se hace referencia en la función "public: int __cdecl Window::Initialise(void)" (?Initialise@Window@@QEAAHXZ)
+Window.obj : error LNK2019: símbolo externo __imp_glewExperimental sin resolver al que se hace referencia en la función "public: int __cdecl Window::Initialise(void)" (?Initialise@Window@@QEAAHXZ)
+lib\glew32.lib : warning LNK4272: el tipo de máquina de biblioteca 'x86' está en conflicto con el tipo de máquina de destino 'x64'
+lib\glfw3.lib : warning LNK4272: el tipo de máquina de biblioteca 'x86' está en conflicto con el tipo de máquina de destino 'x64'
+C:\Users\ciber\Lab-11-CGeIHC\practica2\practica2\x64\Debug\practica2.exe : fatal error LNK1120: 40 externos sin resolver
