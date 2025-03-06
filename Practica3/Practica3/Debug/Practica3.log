@@ -1,0 +1,10 @@
+﻿  practica3.cpp
+C:\Users\ciber\Lab-11-CGeIHC\Practica3\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica3.cpp")
+  
+C:\Users\ciber\Lab-11-CGeIHC\Practica3\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica3.cpp")
+  
+C:\Users\ciber\Lab-11-CGeIHC\Practica3\practica3.cpp(165,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Lab-11-CGeIHC\Practica3\practica3.cpp(167,39): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Practica3.vcxproj -> C:\Users\ciber\Lab-11-CGeIHC\Practica3\Debug\Practica3.exe
