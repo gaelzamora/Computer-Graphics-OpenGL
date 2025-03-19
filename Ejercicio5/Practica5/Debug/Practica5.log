@@ -1,43 +1,50 @@
 ﻿  Camera.cpp
+  E05-422526108.cpp
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "E05-422526108.cpp")
+  
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "E05-422526108.cpp")
+  
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\E05-422526108.cpp(197,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\E05-422526108.cpp(199,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
   Light.cpp
   Material.cpp
   Mesh_tn.cpp
   Model.cpp
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\Model.cpp(16,10): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'const std::string'
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\Model.cpp(16,80): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
-      C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\Model.cpp(16,80):
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\Model.cpp(16,10): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'const std::string'
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\Model.cpp(16,80): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+      C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\Model.cpp(16,80):
       los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
   
   PointLight.cpp
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\PointLight.cpp(28,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\PointLight.cpp(29,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\PointLight.cpp(30,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\PointLight.cpp(32,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\PointLight.cpp(33,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\PointLight.cpp(34,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\PointLight.cpp(35,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
-  practica5.cpp
-\practica5.cpp(1,1): error C1083: No se puede abrir el archivo origen: 'practica5.cpp': No such file or directory
-  (compilando archivo de origen "/practica5.cpp")
-  
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\PointLight.cpp(28,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\PointLight.cpp(29,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\PointLight.cpp(30,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\PointLight.cpp(32,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\PointLight.cpp(33,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\PointLight.cpp(34,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\PointLight.cpp(35,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
   Shader_m.cpp
   Skybox.cpp
   Sphere.cpp
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\Sphere.cpp(39,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\Sphere.cpp(43,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\Sphere.cpp(39,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\Sphere.cpp(43,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
   SpotLight.cpp
   Window.cpp
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
   (compilando archivo de origen "Window.cpp")
   
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
   (compilando archivo de origen "Window.cpp")
   
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\Window.cpp(256,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\Window.cpp(257,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\Window.cpp(261,28): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\Window.cpp(262,40): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\Window.cpp(264,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\Window.cpp(265,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\Window.cpp(256,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\Window.cpp(257,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\Window.cpp(261,28): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\Window.cpp(262,40): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\Window.cpp(264,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\Window.cpp(265,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
   Generando código...
-C:\Users\ciber\Lab-11-CGeIHC\Ejercicio5\Window.cpp(98,1): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\Window.cpp(98,1): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Practica5.vcxproj -> C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicio5\Debug\Practica5.exe
