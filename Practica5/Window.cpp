@@ -140,7 +140,7 @@ void Window::ManejaTeclado(GLFWwindow* window, int key, int code, int action, in
 
 	if (key == GLFW_KEY_G)
 	{
-		theWindow->articulacion1 -= 10.0;
+		theWindow->articulacion1 += 10.0;
 		theWindow->carPositionZ += 0.1f;
 
 	}
