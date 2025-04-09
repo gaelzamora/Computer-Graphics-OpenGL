@@ -270,7 +270,7 @@ int main()
 	Coche_M.LoadModel("Models/coche.obj");
 
 	Llanta_M = Model();
-	Llanta_M .LoadModel("Models/llanta.obj");
+	Llanta_M.LoadModel("Models/llanta.obj");
 
 	Cofre_M = Model();
 	Cofre_M.LoadModel("Models/cofre.obj");

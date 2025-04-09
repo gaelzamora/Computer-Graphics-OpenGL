@@ -98,7 +98,7 @@
     <ClCompile Include="Window.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="P5-422526108.cpp">
+    <ClCompile Include="practica5.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
