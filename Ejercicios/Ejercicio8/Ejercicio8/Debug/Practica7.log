@@ -1,0 +1,11 @@
+﻿  practica7.cpp
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica7\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica7.cpp")
+  
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica7\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica7.cpp")
+  
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica7\practica7.cpp(300,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica7\practica7.cpp(302,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Practica7.vcxproj -> C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica7\Debug\Practica7.exe

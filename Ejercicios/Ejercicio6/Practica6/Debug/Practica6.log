@@ -1,0 +1,27 @@
+﻿  practica6.cpp
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica6\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "../../Practica6/practica6.cpp")
+  
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica6\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "../../Practica6/practica6.cpp")
+  
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica6\practica6.cpp(283,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica6\practica6.cpp(285,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Shader_m.cpp
+  Window.cpp
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicios\Ejercicio6\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicios\Ejercicio6\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicios\Ejercicio6\Window.cpp(162,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicios\Ejercicio6\Window.cpp(163,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicios\Ejercicio6\Window.cpp(167,28): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicios\Ejercicio6\Window.cpp(168,40): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicios\Ejercicio6\Window.cpp(170,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicios\Ejercicio6\Window.cpp(171,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Generando código...
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicios\Ejercicio6\Window.cpp(75,1): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Practica6.vcxproj -> C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Ejercicios\Ejercicio6\Debug\Practica6.exe

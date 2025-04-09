@@ -1,11 +1,35 @@
-﻿  P5-422526108.cpp
+﻿  PointLight.cpp
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\PointLight.cpp(28,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\PointLight.cpp(29,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\PointLight.cpp(30,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\PointLight.cpp(32,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\PointLight.cpp(33,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\PointLight.cpp(34,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\PointLight.cpp(35,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+  practica5.cpp
 C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
-  (compilando archivo de origen "P5-422526108.cpp")
+  (compilando archivo de origen "practica5.cpp")
   
 C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
-  (compilando archivo de origen "P5-422526108.cpp")
+  (compilando archivo de origen "practica5.cpp")
   
-C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\P5-422526108.cpp(175,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\P5-422526108.cpp(177,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\practica5.cpp(175,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\practica5.cpp(177,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Window.cpp
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\Window.cpp(216,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\Window.cpp(217,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\Window.cpp(221,28): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\Window.cpp(222,40): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\Window.cpp(224,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\Window.cpp(225,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Generando código...
+C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\Window.cpp(91,1): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+  LINK : no se encontró C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\Debug\Practica5.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
 LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
   Practica5.vcxproj -> C:\Users\ciber\Documents\Computer-Graphics-OpenGL\Practica5\Debug\Practica5.exe
