@@ -162,4 +162,5 @@ void main()
 	finalcolor += CalcSpotLights();
 	color = texture(theTexture, TexCoord)*vColor*finalcolor;
 	//color = texture(theTexture, TexCoord)*vColor;
+	//color = finalcolor * texture(theTexture, TexCoord);
 }

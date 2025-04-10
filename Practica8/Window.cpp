@@ -7,6 +7,8 @@ Window::Window()
 	carPositionZ = 2.0f;
 	isPushing = false;
 	isPulling == false;
+	lampLightOn = true;
+	starLightOn = true;
 	articulacion3Direction = 1.0f;
 	for (size_t i = 0; i < 1024; i++)
 	{
@@ -24,6 +26,8 @@ Window::Window(GLint windowWidth, GLint windowHeight)
 	isPulling = false;
 	articulacion3Direction = 1.0f;
 	carPositionZ = 2.0f;
+	lampLightOn = true;
+	starLightOn = true;
 	for (size_t i = 0; i < 1024; i++)
 	{
 		keys[i] = 0;
@@ -32,7 +36,7 @@ Window::Window(GLint windowWidth, GLint windowHeight)
 int Window::Initialise()
 {
 	//Inicialización de GLFW
-	if (!glfwInit())
+	if (!glfwInit())	
 	{
 		printf("Falló inicializar GLFW");
 		glfwTerminate();
@@ -153,6 +157,15 @@ void Window::ManejaTeclado(GLFWwindow* window, int key, int code, int action, in
 		}
 
 		theWindow->articulacion3 += 10.0f * theWindow->articulacion3Direction;
+	}
+	if (key == GLFW_KEY_B && action == GLFW_PRESS)
+	{
+		theWindow->lampLightOn = !theWindow->lampLightOn;
+	}
+
+	if (key == GLFW_KEY_V && action == GLFW_PRESS)
+	{
+		theWindow->starLightOn = !theWindow->starLightOn;
 	}
 
 	if (key >= 0 && key < 1024)
