@@ -16,6 +16,8 @@ public:
 	GLfloat articulacion3Direction;
 	bool getPushing() { return isPushing; }
 	bool getPulling() { return isPulling; }
+	bool isLampLightOn() { return lampLightOn; }
+	bool isStarLightOn() { return starLightOn; }
 	GLfloat getmuevex() { return muevex; }
 	bool getShouldClose() {
 		return  glfwWindowShouldClose(mainWindow);}
@@ -32,6 +34,8 @@ private:
 	bool keys[1024];
 	bool isPushing;
 	bool isPulling;
+	bool lampLightOn;
+	bool starLightOn;
 	GLint bufferWidth, bufferHeight;
 	void createCallbacks();
 	GLfloat lastX;
